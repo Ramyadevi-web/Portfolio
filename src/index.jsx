@@ -19,13 +19,13 @@ const projects = [
     title: "Todo App",
     description: "Simple and functional React todo list app.",
     github: "https://github.com/Ramyadevi-web/ReactTodo",
-    live: "https://charming-kangaroo-686016.netlify.app/Home",
+    live: "https://charming-kangaroo-686016.netlify.app/",
   },
   {
     title: "React Router",
     description: "Demo of React Router navigation across routes.",
     github: "https://github.com/Ramyadevi-web/ReactRouter/tree/main",
-    live: "https://cerulean-pasca-12bc54.netlify.app/fullstack",
+    live: "https://cerulean-pasca-12bc54.netlify.app/",
   },
   {
     title: "Shopping Page",
