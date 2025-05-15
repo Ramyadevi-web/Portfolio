@@ -38,10 +38,22 @@ const projects = [
 export default function Portfolio() {
   return (
     <div className="container py-5">
-      <h1 className="mb-3">Ramya Devi M</h1>
-      <p className="lead">
-        Full Stack Developer | MERN Stack | Ex-CBSE Teacher turned Developer 🚀
-      </p>
+      <div className="d-flex">
+          <img
+          src="/profile.jpg"
+          alt="Ramya Devi M"
+          className="rounded-circle mb-3"
+          style={{ width: "150px", height: "175px", objectFit: "cover" }}
+        />
+        <div className="ms-5 mt-4">
+           <h1 className="mb-3">Ramya Devi M</h1>
+        <p className="lead">
+          Full Stack Developer | MERN Stack | Ex-CBSE Teacher turned Developer 🚀
+        </p>
+        </div>
+       
+      </div>
+      
 
       <section className="mb-5">
         <h2 className="h4">About Me</h2>
