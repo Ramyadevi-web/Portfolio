@@ -10,7 +10,7 @@ const projects = [
     live: "https://attendanceportalcapstone.netlify.app/",
   },
   {
-    title: "Axio CRUD",
+    title: "Axios CRUD",
     description: "CRUD operations using Axios with a clean React UI.",
     github: "https://github.com/Ramyadevi-web/AxioCRUD",
     live: "https://axioscrudoperations.netlify.app/",
